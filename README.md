@@ -1,6 +1,5 @@
 # Semantic Segmentation with U-Net: Training Strategy Comparison
 
-![Project Cover](assets/cover.png)
 
 ## 📌 Project Overview
 
